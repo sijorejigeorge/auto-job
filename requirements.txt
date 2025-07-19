@@ -1,0 +1,5 @@
+# Add other packages as needed for your agent
+playwright
+requests
+langchain-community
+# Add other packages as needed for your agent
